@@ -99,9 +99,8 @@
 43.Программа завершает работу
 
 ### Тестирование
-
-
-
+<img width="608" height="458" alt="Image" src="https://github.com/user-attachments/assets/c395ce48-6d5a-4be0-bd4f-1e5454272246" />
+<img width="788" height="661" alt="Image" src="https://github.com/user-attachments/assets/9844852b-dc8a-4fa7-9679-f8bfe151f42d" />
 
 
 # Задание 2
@@ -207,4 +206,5 @@
 45.Программа завершает работу
 
 ### Тестирование
-
+<img width="831" height="483" alt="Image" src="https://github.com/user-attachments/assets/b4a67a16-6cc6-4c8c-9dc8-e4d858da18a8" />
+<img width="1071" height="563" alt="Image" src="https://github.com/user-attachments/assets/e2c1f258-48b6-4a73-86c2-57845bdc789e" />
